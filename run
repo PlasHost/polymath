@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+print("Started!")
+
 from polymath import core
 
-print("Loaded!")
+print("Finished. Stopping...")
