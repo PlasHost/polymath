@@ -48,4 +48,4 @@ toml
 ## Pterodactyl
 This fork also has an egg for Pterodactyl so you can use it with a Pterodactyl instance.
 
-You can find this egg at [egg-poly-math.json](https://github.com/PlasHost/polymath/blob/master/egg-poly-math.json)
+You can find this egg at [egg-poly-math.json](https://github.com/PlasHost/polymath/blob/master/egg-poly-math.json) which is a Polymath Pterodactyl Egg.
