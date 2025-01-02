@@ -50,6 +50,7 @@ colorama
 
 - Polymath should now be running
 
+<<<<<<< HEAD
 __ __
 ## How to use on Pterodactyl or Windows
 
@@ -85,3 +86,9 @@ location / {
 ```
 > i recommend using a subdomain like texture.example.xyz
 - make sure port 443 is forwarded!
+=======
+## Pterodactyl
+This fork also has an egg for Pterodactyl so you can use it with a Pterodactyl instance.
+
+You can find this egg at [egg-poly-math.json](https://github.com/PlasHost/polymath/blob/master/egg-poly-math.json) which is a Polymath Pterodactyl Egg.
+>>>>>>> b7c711940d54d00be44c5b1454726c7dd9e83b69
